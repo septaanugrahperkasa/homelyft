@@ -5,7 +5,7 @@ import { initializeApp } from 'firebase/app';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBnxo4JK37Cx1qvwOADvhs79uLsXmsjwpc",
+  apiKey: "",
   authDomain: "disco-beach-391702.firebaseapp.com",
   projectId: "disco-beach-391702",
   storageBucket: "disco-beach-391702.appspot.com",
